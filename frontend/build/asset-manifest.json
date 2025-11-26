@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.63cd5e46.css",
+    "main.js": "/static/js/main.0acab709.js",
+    "static/media/girl_sayhi.gif": "/static/media/girl_sayhi.281cc08ac88db4f02f87.gif",
+    "static/media/girl_gif.gif": "/static/media/girl_gif.c04a4b6277fbd95cef1e.gif",
+    "static/media/girl_sleeping.gif": "/static/media/girl_sleeping.d271f69cd0605c2d5ada.gif",
+    "index.html": "/index.html",
+    "main.63cd5e46.css.map": "/static/css/main.63cd5e46.css.map",
+    "main.0acab709.js.map": "/static/js/main.0acab709.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63cd5e46.css",
+    "static/js/main.0acab709.js"
+  ]
+}
